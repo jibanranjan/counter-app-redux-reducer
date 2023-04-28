@@ -1,0 +1,20 @@
+
+
+h1{
+    
+    margin-left: 2rem;
+}
+
+button{
+    margin-left: 2rem;
+    background-color: rgb(173,216,230);
+    height: 2rem;
+    width: 6rem;
+    border: none;
+    cursor: pointer;
+}
+
+.mainDiv{
+    margin-top: auto;
+    padding: 16%;
+}
